@@ -9,16 +9,6 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
