@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: RESEARCH
 description: 
 years: 
-nav: false
+nav: true
 nav_order: 1
 ---
 
