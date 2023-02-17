@@ -2,7 +2,7 @@
 layout: 
 title: 
 permalink: 
-subtitle: [PhD Student in Economics, European University Institute](https://www.eui.eu/people?id=olatz-roman)
+subtitle: PhD Student in Economics, European University Institute
 
 profile:
   align: right
