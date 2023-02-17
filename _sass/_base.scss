@@ -175,11 +175,14 @@ blockquote {
     }
   }
   .navbar-brand {
-    color: var(--global-theme-color);
-  }
-  .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
-    font-size: small;
+    font-size: large;
+    &:hover {
+      color: var(--global-text-color-light);
+    }  }
+  .navbar-nav .nav-item .nav-link {
+    color: var(--global-text-color-light);
+    font-size:medium;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -285,8 +288,8 @@ footer.fixed-bottom {
   font-size: 0.75rem;
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
   }
   a {
     color: var(--global-footer-link-color);
