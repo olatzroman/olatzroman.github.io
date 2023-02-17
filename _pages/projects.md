@@ -3,11 +3,21 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
