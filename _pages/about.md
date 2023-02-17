@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 subtitle: <a href='https://www.eui.eu/people?id=olatz-roman'>PhD Student in Economics, European University Institute
 
