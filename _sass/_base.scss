@@ -4,8 +4,15 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+h1, h2, h3, h4, h5, h6, strong {
+  color: var(--global-theme-color);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, em, div, li, span {
   color: var(--global-text-color);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:350;
 }
 
 hr {
@@ -24,7 +31,7 @@ table {
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
@@ -138,7 +145,7 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
 }
@@ -191,12 +198,12 @@ blockquote {
     font-size: 1.7rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-theme-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-hover-color);
         }
       }
     }
