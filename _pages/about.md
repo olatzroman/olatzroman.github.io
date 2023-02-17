@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    Department of Economics, Villa La Fonte
+    Department of Economics
     Via delle Fontanelle, 18
     50014 Fiesole (FI), Italy
 
