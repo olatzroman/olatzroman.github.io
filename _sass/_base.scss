@@ -7,6 +7,7 @@
 h1, h2, h3, h4, h5, h6, strong {
   color: var(--global-theme-color);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
 }
 
 p, em, div, li, span {
@@ -29,9 +30,10 @@ table {
 }
 
 a, table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-text-color);
+  text-decoration: underline;
   &:hover {
-    color: var(--global-hover-color);
+    color:$blue-color;
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
@@ -182,7 +184,7 @@ blockquote {
     }  }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color-light);
-    font-size:small;
+    font-size:14px;
     &:hover {
       color: var(--global-hover-color);
     }
