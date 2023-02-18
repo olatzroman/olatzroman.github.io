@@ -18,4 +18,4 @@ We study the impact of having a child on the relationship quality of couples. We
 *Joint with [Ana Moreno-Maldonado](https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0) and Belen Rodríguez Moro*
 In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
 
-|![Graph](./assets/img/1.jpg)|Some text|
+|![Graph](/assets/img/1.jpg)|Some text|
