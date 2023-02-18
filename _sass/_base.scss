@@ -7,7 +7,6 @@
 h1, h2, h3, h4, h5, h6, strong {
   color: var(--global-theme-color);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: bolder;
 }
 
 p, em, div, li, span {
@@ -172,6 +171,7 @@ blockquote {
 }
 .navbar.navbar-light {
   a {
+    text-decoration: none;
     &:hover {
       text-decoration: none;
     }
