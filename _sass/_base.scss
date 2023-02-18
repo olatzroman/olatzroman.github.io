@@ -29,10 +29,9 @@ table {
 }
 
 a, table.table a {
-  color: var(--global-text-color);
+  color: $cyan-color;
   text-decoration: underline;
   &:hover {
-    color:$blue-color;
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
