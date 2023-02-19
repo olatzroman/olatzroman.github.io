@@ -18,11 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## This website is work in progress!
-
-
-Welcome to my website!
+**Welcome to my website!**
 
 I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [David K. Levine](http://www.dklevine.com/). 
 
 My research interests are in family, gender and urban economics.
+
+**Contact me:**
+
+[olatz.roman@eui.eu](mailto:olatz.roman@eui.eu)
