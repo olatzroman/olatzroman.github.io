@@ -13,7 +13,7 @@ profile:
     <p>Via delle Fontanelle, 18 </p>
     <p>50014 Fiesole (FI), Italy </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -23,7 +23,6 @@ social: false  # includes social icons at the bottom of the page
 I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [David K. Levine](http://www.dklevine.com/). 
 
 My research interests are in family, gender and urban economics.
+<br/>
 
-**Contact me:**
-
-[olatz.roman@eui.eu](mailto:olatz.roman@eui.eu)
+**Contact me:** [olatz.roman@eui.eu](mailto:olatz.roman@eui.eu)
