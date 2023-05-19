@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-#### <span style="color:purple"> **Work in Progress** </span>
+#### <font color="purple"> **Work in Progress** </font>
 
 ##### **Children and Relationship Quality** 
 with Belén Rodríguez Moro 
