@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-#### Work in Progress 
+<h4 align="center"><strong> Work in Progress </strong></h4> 
 
 **Children and Relationship Quality**, with [Belén Rodríguez Moro](https://sites.google.com/view/belrodoro/about-me) <br>
 _How does having a child affect couples' relationship quality?_
