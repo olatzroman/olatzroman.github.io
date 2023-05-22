@@ -10,7 +10,8 @@ nav_order: 1
 
 <h4 align="center"><strong> Work in Progress </strong></h4> 
 
-{% include module.html image_path="../assets/img/1.jpg.jpg" description="Some more text that will appear to the left of the image." %}
+<img align="right" width="100" height="100" src="../assets/img/1.jpg">
+
 **Children and Relationship Quality**, with [Belén Rodríguez Moro](https://sites.google.com/view/belrodoro/about-me) <br>
 _How does having a child affect couples' relationship quality?_
 
