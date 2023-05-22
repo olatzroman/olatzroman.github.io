@@ -10,7 +10,7 @@ nav_order: 1
 
 <h4 align="center"><strong> Work in Progress </strong></h4> 
 
-<img align="right" width="100" height="100" src="../assets/img/1.jpg">
+<img align="left" width="100" height="100" src="../assets/img/child_rq.png">
 
 **Children and Relationship Quality**, with [Belén Rodríguez Moro](https://sites.google.com/view/belrodoro/about-me) <br>
 _How does having a child affect couples' relationship quality?_
