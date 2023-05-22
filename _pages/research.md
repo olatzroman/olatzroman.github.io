@@ -18,11 +18,9 @@ We examine the impact of having a child on couples' relationship quality (RQ), d
 
 {% include module.html image_path="C:/Users/Olatz/Documents/GitHub/Webpage/assets/img/prof_pic.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 <div style="clear: both;">
-<figure>
     <div style="float: left; margin-right: 1em;">
     <img src="C:/Users/Olatz/Documents/GitHub/Webpage/assets/img/prof_pic.jpg" style="max-width: 200px;"
       alt="" />
-</figure>
 </div>
 <div>
    Some text
