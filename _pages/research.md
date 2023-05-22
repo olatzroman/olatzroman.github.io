@@ -16,7 +16,7 @@ _How does having a child affect couples' relationship quality?_
 
 We examine the impact of having a child on couples' relationship quality (RQ), defined as the non-pecuniary gains from being in a relationship. Adopting a pseudo-experimental approach, we perform an event study analysis around first child birth and find a sharp and persistent decrease in RQ for both fathers and mothers immediately after birth. Individuals ranking in the 90th percentile of RQ before child birth are pushed down to the median. We attribute this effect primarily to changes in time use. First, a decrease in time spent together as a couple can explain half of the decrease in RQ. Second, we document a substantial increase in unpaid housework absorbed by women. We uncover heterogeneity in the impact of first child birth on RQ based on the division of work before birth, with women experiencing larger increases in unpaid housework also suffering a larger decrease in RQ after first child birth. 
 
-{% include module.html image_path="1.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
+{% include module.html image_path="assets/img/prof_pic.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
  **Until the City Do Us Part**, with [Ana Moreno-Maldonado](https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0) and Belén Rodríguez Moro <br>
 _How does city size influence the type of couples that are formed?_
