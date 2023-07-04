@@ -148,6 +148,7 @@ blockquote {
   border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-weight:350;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -170,6 +171,7 @@ blockquote {
     }
 }
 .navbar.navbar-light {
+  font-weight: 600;
   a {
     text-decoration: none;
     &:hover {
@@ -177,6 +179,7 @@ blockquote {
     }
   }
   .navbar-brand {
+    font-weight: 400;
     color: var(--global-text-color);
     font-size: large;
     &:hover {
@@ -200,11 +203,11 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition-property: all 0.5s ease-in-out;
       }
       &:hover {
         i::before {
@@ -290,8 +293,8 @@ footer.fixed-bottom {
   font-size: 0.75rem;
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
   a {
     color: var(--global-footer-link-color);
