@@ -146,7 +146,7 @@ blockquote {
   box-shadow: 0 4px 2px -2px var(--global-bg-color);
   border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.75;
+  opacity: 0.85;
   font-weight:350;
   padding: 20px;
 }
@@ -181,7 +181,7 @@ blockquote {
   .navbar-brand {
     font-weight: 400;
     color: var(--global-text-color);
-    font-size: large;
+    font-size: 20px;
     &:hover {
       color: var(--global-text-color-light);
     }  }
