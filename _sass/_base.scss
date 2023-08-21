@@ -144,10 +144,10 @@ blockquote {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
+  box-shadow: 0.5px;
   border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 0.75;
   font-weight:350;
 }
 .navbar .dropdown-menu {
