@@ -143,12 +143,12 @@ blockquote {
 
 // Navbar customization
 .navbar {
-  box-shadow: 0 4px 2px -2px var(--global-bg-color);
   border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.85;
   font-weight:350;
   padding: 20px;
+  box-shadow: 0px 2px 5px 0px var(--global-divider-color);
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
