@@ -8,19 +8,40 @@ nav: true
 nav_order: 1
 ---
 
-### **Work in Progress**
----
+<style>
+  .container .jumbotron {
+    padding-top: 10px; /* Adjust as needed */
+    padding-bottom: 10px; /* Adjust as needed */
+  }
+</style>
 
-##### **Children and Relationship Quality** <small>, with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro </a> </small> <br>
-_How does having a child affect couples' relationship quality?_
+<h4><strong>Working Papers</strong></h4>
 
-<p style="text-align: justify;">
-We examine the impact of having a child on couples' relationship quality (RQ), defined as the non-pecuniary gains from being in a relationship. Adopting a pseudo-experimental approach, we perform an event study analysis around first child birth and find a sharp and persistent decrease in RQ for both fathers and mothers immediately after birth. Individuals ranking in the 90th percentile of RQ before child birth are pushed down to the median. We attribute this effect primarily to changes in time use. First, a decrease in time spent together as a couple can explain half of the decrease in RQ. Second, we document a substantial increase in unpaid housework absorbed by women. We uncover heterogeneity in the impact of first child birth on RQ based on the division of work before birth, with women experiencing larger increases in unpaid housework also suffering a larger decrease in RQ after first child birth. 
-</p>
+<div class="container">
+<div class="jumbotron">
+  <h5><strong>Children, Household Specialization and Relationship Quality</strong></h5>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn btn-primary">SSRN</a>
 
-##### **Until the City Do Us Part** <small>, with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado </a> and Belén Rodríguez Moro </small> <br>
-_How does city size influence the type of couples that are formed?_
+  <p style="text-align: justify; margin-left: 25px; color: #2c3237">
+    We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
+  </p>
 
-<p style="text-align: justify;">
-In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
-</p>
+  <p>December 2023 · <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>, Olatz Roman Blanco</p>
+</div>
+</div>
+
+<h4><strong>Work in Progress</strong></h4>
+
+<div class="container">
+<div class="jumbotron">
+  <h5><strong>Until the City Do Us Part</strong></h5>
+
+  <p style="text-align: justify; margin-left: 25px; color: #2c3237">
+    In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
+  </p>
+
+  <p><a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>, <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>, Olatz Roman Blanco</p>
+</div>
+</div>
+
+
