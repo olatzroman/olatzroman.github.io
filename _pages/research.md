@@ -36,7 +36,7 @@ nav_order: 1
 <div class="container">
 <div class="jumbotron">
   <h5 style="display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5>
-  <a href="https://your-ssrn-link.com" target="_blank" class="btn-ssrn">SSRN</a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
