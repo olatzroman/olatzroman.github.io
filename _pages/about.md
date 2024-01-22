@@ -20,9 +20,9 @@ social: false  # includes social icons at the bottom of the page
 
 **Welcome to my website!**
 
-I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [David K. Levine](http://www.dklevine.com/). 
+I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [Alexander Monge-Naranjo](https://alexandermonge.com/). 
 
-I am an applied microeconomist, working in the intersection between family and urban economics, with special focus on gender.
+My research interests are mainly in labor and family economics, with special focus on gender.
 <br/>
 
 **Contact:** [olatz.roman@eui.eu](mailto:olatz.roman@eui.eu)
