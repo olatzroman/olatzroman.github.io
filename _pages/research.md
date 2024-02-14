@@ -17,25 +17,26 @@ nav_order: 1
   .btn-ssrn {
     display: inline-block;
     padding: 5px 5px; /* Adjust padding as needed */
-    background-color: #ffffff; /* Same as background color */
-    color: #8e7bd0; /* Button text color */
+    background-color: $grey-color-light ; /* Same as background color */
+    color: #1C1C1D; /* Button text color */
     text-decoration: none;
-    border: 1.5px solid #8e7bd0; /* Button border color */
+    border: 0px solid #8e7bd0; /* Button border color */
     border-radius: 10px; /* Make borders round */
-    font-size: 14px;
+    font-size: 10px;
     margin-left: 10px; /* Adjust margin as needed */
   }
 
   .btn-ssrn:hover {
-    background-color: #e5e1f4; /* Hover background color */
+    background-color: #c7bbc9; /* Hover background color */
+    color: #1C1C1D;
   }
 </style>
 
-<h4><strong>Working Papers</strong></h4>
+<h5><strong>Working Papers</strong></h5>
 
 <div class="container">
 <div class="jumbotron">
-  <h5 style="display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5>
+  <p style="color: purple;"><strong><span>Children, Household Specialization and Relationship Quality</span></strong></p>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
@@ -48,11 +49,12 @@ nav_order: 1
 
 <br>
 
-<h4><strong>Work in Progress</strong></h4>
+
+<h5><strong>Work in Progress</strong></h5>
 
 <div class="container">
 <div class="jumbotron">
-  <h5><strong>Until the City Do Us Part</strong></h5>
+  <p style="color: purple;"><strong><span>Until the City Do Us Part</span></strong></p>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.

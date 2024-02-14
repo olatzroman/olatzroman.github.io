@@ -9,8 +9,14 @@ h1, h2, h3, h4, h5, h6, strong {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p, em, div, li, span {
+em, div, li, span {
   color: var(--global-text-color);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight:350;
+}
+
+p {
+  color: $gray-color-dark;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight:350;
 }
@@ -29,11 +35,10 @@ table {
 }
 
 a, table.table a {
-  color: $cyan-color;
-  text-decoration: underline;
+  color: $teal-color;
   font-weight: 400;
   &:hover {
-    text-decoration: underline;
+    color: $light-teal-color;
   }
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
