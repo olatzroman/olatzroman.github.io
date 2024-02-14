@@ -17,12 +17,12 @@ nav_order: 1
   .btn-ssrn {
     display: inline-block;
     padding: 5px 5px; /* Adjust padding as needed */
-    background-color: $grey-color-light ; /* Same as background color */
+    background-color: #cdcdcd ; /* Same as background color */
     color: #1C1C1D; /* Button text color */
     text-decoration: none;
     border: 0px solid #8e7bd0; /* Button border color */
     border-radius: 10px; /* Make borders round */
-    font-size: 10px;
+    font-size: 11px;
     margin-left: 10px; /* Adjust margin as needed */
   }
 
@@ -36,7 +36,7 @@ nav_order: 1
 
 <div class="container">
 <div class="jumbotron">
-  <p style= "display: inline-block; color: purple;"><strong>Children, Household Specialization and Relationship Quality</strong></p>
+  <p style= "display: inline-block; color: #3f283b;"><strong>Children, Household Specialization and Relationship Quality</strong></p>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
@@ -54,7 +54,7 @@ nav_order: 1
 
 <div class="container">
 <div class="jumbotron">
-  <p style="color: purple;"><strong><span>Until the City Do Us Part</span></strong></p>
+  <p style="color: #3f283b;"><strong>Until the City Do Us Part</strong></p>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
