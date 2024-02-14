@@ -36,7 +36,7 @@ nav_order: 1
 
 <div class="container">
 <div class="jumbotron">
-  <p style="color: purple;"><strong><span>Children, Household Specialization and Relationship Quality</span></strong></p>
+  <p style= "display: inline-block; color: purple;"><strong>Children, Household Specialization and Relationship Quality</strong></p>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
