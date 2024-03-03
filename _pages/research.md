@@ -10,8 +10,10 @@ nav_order: 1
 
 <style>
   .container .jumbotron {
-    padding-top: 10px; /* Adjust as needed */
-    padding-bottom: 10px; /* Adjust as needed */
+    padding-top: 12px; 
+    padding-bottom: 8px; 
+    padding-left: 10px; 
+    padding-right: 10px; 
   }
 
   .btn-ssrn {
@@ -32,29 +34,31 @@ nav_order: 1
   }
 </style>
 
-<h5><strong>Working Papers</strong></h5>
+<h4><strong>Working Papers</strong></h4>
+<br>
 
 <div class="container">
 <div class="jumbotron">
-  <p style= "display: inline-block;"><strong style= "color: #5e3c58;">Children, Household Specialization and Relationship Quality</strong></p>
+  <h5 style= "display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5> 
+  <p style= "display: inline-block;"><i> (submitted) </i></p>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
   </p>
 
-  <p>December 2023 · <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>, Olatz Roman Blanco</p>
+  <p>January 2024 · <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>, Olatz Roman Blanco</p>
 </div>
 </div>
 
 <br>
 
-
-<h5><strong>Work in Progress</strong></h5>
+<h4><strong>Work in Progress</strong></h4>
+<br>
 
 <div class="container">
 <div class="jumbotron">
-  <p style="color: #5e3c58;"><strong style= "color: #5e3c58;">Until the City Do Us Part</strong></p>
+  <h5><strong>Until the City Do Us Part</strong></h5>
 
   <p style="text-align: justify; margin-left: 25px; color: #2c3237">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.

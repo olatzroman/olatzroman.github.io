@@ -12,13 +12,12 @@ h1, h2, h3, h4, h5, h6, strong {
 em, div, li, span {
   color: var(--global-text-color);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight:350;
+  font-weight:400;
 }
 
 p {
-  color: $grey-color-dark;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight:350;
+  font-weight:400;
 }
 
 hr {
@@ -36,7 +35,7 @@ table {
 
 a, table.table a {
   color: $light-teal-color;
-  font-weight: 350;
+  font-weight: 400;
   &:hover {
     color: $light-teal-color;
   }
