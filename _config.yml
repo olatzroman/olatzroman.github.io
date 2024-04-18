@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Olatz Roman Blanco # the website title (if blank, full name will be used instead)
-first_name: Olatz
+title:  # the website title (if blank, full name will be used instead)
+first_name: Olatz Roman Blanco
 middle_name: 
-last_name: Roman Blanco
+last_name: 
 email: olatz.roman@eui.eu
 description: 
 footer_text: 
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: The best way to reach me is by email.
+contact_note: 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
