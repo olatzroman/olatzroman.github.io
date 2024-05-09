@@ -39,7 +39,6 @@ nav_order: 1
 <div class="container">
 <div class="jumbotron">
   <h5 style= "display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5> 
-  <p style= "display: inline-block;"><i> (submitted) </i></p>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
 
