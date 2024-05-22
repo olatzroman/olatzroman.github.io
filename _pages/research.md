@@ -19,7 +19,7 @@ nav_order: 1
   .btn-ssrn {
     display: inline-block;
     padding: 5px 5px; /* Adjust padding as needed */
-    background-color: #bfb5b2 ; /* Same as background color */
+    background-color: #e5e5e5; /* Same as background color */
     color: #1C1C1D; /* Button text color */
     text-decoration: none;
     border: 0px solid #8e7bd0; /* Button border color */
@@ -29,12 +29,12 @@ nav_order: 1
   }
 
   .btn-ssrn:hover {
-    background-color: #c7bbc9; /* Hover background color */
+    background-color: #c53c05; /* Hover background color */
     color: #1C1C1D;
   }
 </style>
 
-<h4><strong>Working Papers</strong></h4>
+<h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
 
 <div class="container">
 <div class="jumbotron">
@@ -52,7 +52,7 @@ nav_order: 1
 
 <br>
 
-<h4><strong>Work in Progress</strong></h4>
+<h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
 
 <div class="container">
 <div class="jumbotron">
