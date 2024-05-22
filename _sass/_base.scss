@@ -34,10 +34,10 @@ table {
 }
 
 a, table.table a {
-  color: $orange-color-dark
+  color: $light-teal-color;
   font-weight: 400;
   &:hover {
-    color: $orange-color-dark
+    color: $light-teal-color;
   }
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
@@ -185,14 +185,14 @@ blockquote {
   .navbar-brand {
     font-weight: 400;
     color: var(--global-text-color);
-    font-size: large;
+    font-size: 20px;
     opacity: 1;
     &:hover {
       color: var(--global-text-color-light);
     }  }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
-    font-size: normal;
+    color: var(--global-text-color-light);
+    font-size:14px;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -273,15 +273,15 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 20px;
+    font-size: 4rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-text-color-light);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: $orange-color-dark;
+          color: var(--global-theme-color);
         }
       }
     }
