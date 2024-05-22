@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [Alexander Monge-Naranjo](https://alexandermonge.com/). 
 
-My research interests are mainly in labor and family economics, with special focus on gender.
-<br/>
+My research interests are mainly in labor and gender economics. I study the evolution of gender gaps in the labor market and within households over time, and examine their implications on couples' decision-making.
 
-**Contact:** [olatz.roman@eui.eu](mailto:olatz.roman@eui.eu)
+You can find my [CV](https://olatzroman.github.io/assets/pdf/CVOlatzRoman.pdf) here and learn more about my [research](https://olatzroman.github.io/research/) here.
+
+You can email me at [olatz.roman@eui.eu](mailto:olatz.roman@eui.eu).
