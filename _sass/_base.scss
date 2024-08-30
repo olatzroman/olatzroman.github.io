@@ -152,8 +152,8 @@ blockquote {
   border-bottom: 0px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.85;
-  font-weight:400;
-  padding: 20px;
+  font-weight:500;
+  padding: 15px;
   box-shadow: 0px 2px 5px 0px var(--global-divider-color);
 }
 .navbar .dropdown-menu {
@@ -186,16 +186,16 @@ blockquote {
   }
   .navbar-brand {
     font-weight: 600;
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
     font-size: 24px;
     opacity: 1;
     &:hover {
       color: var(--global-hover-color);
     }  }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
     font-size: normal;
-    color: var(--global-text-color);
+    color: var(--global-theme-color);
     font-size: normal;
     &:hover {
       color: var(--global-hover-color);

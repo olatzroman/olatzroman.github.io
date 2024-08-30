@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p style="text-align:left"><small>Department of Economics </small></p>
-    <p style="text-align:left"><small>Via delle Fontanelle, 18 </small></p>
-    <p style="text-align:left"><small>50014 Fiesole (FI), Italy </small></p>
+    <p style="text-align:left"><small>
+    Department of Economics <br>
+    Via delle Fontanelle, 18 <br>
+    50014 Fiesole (FI), Italy
+    </small></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
