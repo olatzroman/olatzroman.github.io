@@ -38,7 +38,6 @@ nav_order: 1
 WORKING PAPERS 
 --------------------->
 <h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
-<br>
 
 <div class="container">
 <div class="jumbotron">
@@ -49,7 +48,7 @@ WORKING PAPERS
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
-  <p style="text-align: justify; font-size: 14px; margin-left: 25px; color: #2c3237">
+  <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
   </p>
 </div>
@@ -61,7 +60,7 @@ WORKING PAPERS
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
-  <p style="text-align: justify; font-size: 14px; margin-left: 25px; color: #2c3237">
+  <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
     This paper introduces and validates a novel measure of relationship quality (RQ), the non-material gains from being in a relationship. We use survey data from the United Kingdom to construct and validate RQ, by demonstrating its predictive power for marital transitions and its comparability across individuals. We examine the evolution of RQ over time using panel data, testing common assumptions in the theoretical family economics literature. Our analysis reveals significant associations between RQ and individual and couple characteristics. The findings on the assortative matching on education underscore the importance of shared characteristics in enhancing RQ.
   </p>
 </div>
@@ -73,13 +72,12 @@ WORKING PAPERS
 WORK IN PROGRESS 
 --------------------->
 <h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
-<br>
 
 <div class="container">
 <div class="jumbotron">
   <h5><strong>The Geography of Jobs and Couple Migration</strong></h5>
 
-  <p style="text-align: justify; font-size: 14px; margin-left: 25px; color: #2c3237">
+  <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
     This paper studies how joint geographic constraints induced by partners' occupations influence couples' migration decisions. Using novel measures of geographic concentration and overlap of occupations, I find that highly concentrated occupations significantly limit couples' ability to relocate, although this is mitigated by the geographic overlap of partners' occupations. Additionally, I explore gender differences in occupational choices, showing that women, particularly college educated women, have increasingly selected into more geographically concentrated occupations. A shift-share decomposition reveals that the sharp decline in couple migration over the last few decades is primarily due to changes in migration patterns within different couple types rather than shifts in their composition.
   </p>
 
@@ -92,7 +90,7 @@ WORK IN PROGRESS
 
   <p>with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
-  <p style="text-align: justify; font-size: 14px; margin-left: 25px; color: #2c3237">
+  <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
   </p>
 </div>

@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Olatz Roman # the website title (if blank, full name will be used instead)
-first_name: Olatz
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Olatz Roman
 middle_name: 
-last_name: Roman
+last_name: 
 email: olatz.roman@eui.eu
 description: 
 footer_text: 
