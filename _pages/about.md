@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='https://www.eui.eu/people?id=olatz-roman'>PhD Student in Economics</a> <strong>•</strong> <a target="_blank" href="https://www.eui.eu/en/home">European University Institute</a>
+subtitle: <a href='https://www.eui.eu/people?id=olatz-roman'>PhD Candidate in Economics</a> at the <a target="_blank" href="https://www.eui.eu/en/home">European University Institute</a>
 
 profile:
   align: left
@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 **Welcome to my website!**
 
-I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [Alexander Monge-Naranjo](https://alexandermonge.com/). 
+I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [Alexander Monge-Naranjo](https://alexandermonge.com/).  
+I visited UC Berkeley during spring 2022.
 
 My research interests are mainly in labor and gender economics. I study the evolution of gender gaps in the labor market and within households over time, and examine their implications on couples' decision-making.
 

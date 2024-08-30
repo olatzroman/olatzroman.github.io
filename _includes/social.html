@@ -1,6 +1,9 @@
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
+            {%- if site.cv -%}
+            <a href="https://olatzroman.github.io/assets/pdf/CVOlatzRoman.pdf" title="cv"><i class="ai ai-cv"></i></a>
+            {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
             {% endif %}
