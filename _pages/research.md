@@ -38,7 +38,6 @@ nav_order: 1
 WORKING PAPERS 
 --------------------->
 <h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
-
 <div class="container">
 <div class="jumbotron">
   <h5 style= "display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5> 
@@ -72,7 +71,6 @@ WORKING PAPERS
 WORK IN PROGRESS 
 --------------------->
 <h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
-
 <div class="container">
 <div class="jumbotron">
   <h5><strong>The Geography of Jobs and Couple Migration</strong></h5>
