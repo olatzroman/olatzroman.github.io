@@ -50,6 +50,10 @@ WORKING PAPERS
   <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
   </p>
+
+  <i style="text-align: justify; font-size: 12px; color: #212529">
+  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18$^{\text{th}}$ Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48$^{\text{th}}$ SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*
+  </i>
 </div>
 </div>
 
