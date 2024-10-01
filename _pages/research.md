@@ -40,10 +40,9 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
 <div class="container">
 <div class="jumbotron">
-  <h5 style= "display: inline-block;"><strong>Children, Household Specialization and Relationship Quality</strong></h5> 
+  <h5 style= "display: inline-block;"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
-  <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a>
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
