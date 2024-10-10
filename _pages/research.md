@@ -78,7 +78,7 @@ JOB MARKET PAPER
 <h4 style="margin-bottom: 20px;"><strong>Job Market Paper</strong></h4>
 <div class="container">
 <div class="jumbotron">
-  <img src="/assets/img/10.jpg"> <!-- Add your image source here -->
+  <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
   <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
@@ -101,6 +101,7 @@ JOB MARKET PAPER
 <!-------------------
 WORKING PAPERS 
 --------------------->
+<h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
 <div class="container">
 <div class="jumbotron no-image">
   <h5 class="paper-title;"><strong>Measuring Relationship Quality</strong></h5> 
