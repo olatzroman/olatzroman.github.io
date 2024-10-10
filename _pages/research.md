@@ -23,7 +23,7 @@ nav_order: 1
 
   .jumbotron img {
     flex: 0 0 20%; /* Adjust the size of the image as needed */
-    max-width: 100%; /* Make the image responsive to its container */
+    max-width: 20%; /* Make the image responsive to its container */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px; /* Space between the image and text */
   }
