@@ -25,6 +25,8 @@ nav_order: 1
     flex: 0 0 20%; /* Adjust the size of the image as needed */
     max-width: 30%; /* Make the image responsive to its container */
     height: auto; /* Maintain aspect ratio */
+    margin-top: auto; /* Center vertically */
+    margin-bottom: auto; /* Center vertically */
     margin-right: 15px; /* Space between the image and text */
   }
 
