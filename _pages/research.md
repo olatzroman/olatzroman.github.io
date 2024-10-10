@@ -24,7 +24,7 @@ nav_order: 1
   .jumbotron img {
     flex: 0 0 20%; /* Adjust the size of the image as needed */
     width: 100%; /* Make the image responsive to its container */
-    max-width: 200px; /* Limit the maximum width of the image */
+    max-width: 120px; /* Limit the maximum width of the image */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px; /* Space between the image and text */
   }
@@ -80,7 +80,7 @@ JOB MARKET PAPER
 <div class="jumbotron">
   <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
-  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf" style="text-decoration: underline;><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
+  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
