@@ -18,13 +18,14 @@ nav_order: 1
   }
 
   .jumbotron img {
-    width: 50px; /* Adjust the size of the image as needed */
+    flex: 0 0 20%; /* Adjust the size of the image as needed */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px; /* Space between the image and text */
   }
 
   .text-container {
-    max-width: calc(100% - 70px); /* Adjust to ensure text fits next to the image */
+    flex: 1;
+    max-width: 80%; /* Adjust to ensure text fits next to the image */
   }
 
   .btn-ssrn {
@@ -43,6 +44,25 @@ nav_order: 1
     background-color: #dc8a69; /* Hover background color */
     color: #1C1C1D;
   }
+
+  .paper-title {
+    display: inline-block;
+    font-weight: bold;
+  }
+
+  .abstract {
+    text-align: justify;
+    font-size: 15px;
+    margin-left: 25px;
+    color: #2c3237;
+  }
+
+  .presentation-info {
+    text-align: justify;
+    font-size: 12px;
+    color: #828282;
+    line-height: 1.2em;
+  }
 </style>
 
 <!-------------------
@@ -53,18 +73,18 @@ WORKING PAPERS
 <div class="jumbotron">
   <img src="/assets/img/10.jpg"> <!-- Add your image source here -->
   <div class="text-container">
-    <h5 style= "display: inline-block;"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
+    <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
     <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
     <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
 
     <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
-    <p style="text-align: justify; font-size: 15px; margin-left: 25px; color: #2c3237">
+    <p class="abstract">
       We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
     </p>
 
-    <p style="text-align: justify; font-size: 12px; color: #828282; line-height: 1.2em">
+    <p class="presentation-info">
     Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*
     </p>
   </div>
