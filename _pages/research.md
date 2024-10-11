@@ -15,6 +15,7 @@ nav_order: 1
     padding-left: 20px; 
     padding-right: 20px; 
     display: flex; /* Enable flexbox layout */
+    flex-direction: row; /* Default for larger screens, image next to text */
   }
 
   .jumbotron.no-image {
@@ -33,6 +34,22 @@ nav_order: 1
   .text-container {
     flex: 1;
     max-width: 80%; /* Adjust to ensure text fits next to the image */
+  }
+
+  @media (max-width: 768px) {
+    .container .jumbotron {
+        flex-direction: column; /* Stack the image and text vertically */
+    }
+    
+    .jumbotron img {
+        max-width: 100%; /* Image takes full width in mobile view */
+        margin-right: 0; /* Remove right margin */
+        margin-bottom: 15px; /* Add space between image and text */
+    }
+    
+    .text-container {
+        max-width: 100%; /* Ensure text takes full width */
+    }
   }
 
   .btn-ssrn {
