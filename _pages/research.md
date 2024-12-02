@@ -110,7 +110,7 @@ JOB MARKET PAPER
   </p>
 
   <p class="presentation-info">
-  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*
+  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society (scheduled)
   </p>
   </div>
 </div>
@@ -122,7 +122,7 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <h5 class="paper-title;"><strong>Measuring Relationship Quality</strong></h5> 
+  <h5 class="paper-title" style="text-decoration: underline;"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf"><strong>Measuring Relationship Quality</strong></a></h5>  
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
@@ -132,25 +132,27 @@ WORKING PAPERS
 </div>
 </div>
 
-<br>
-
-<!-------------------
-WORK IN PROGRESS 
---------------------->
-<h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
 <div class="container">
 <div class="jumbotron no-image">
   <h5><strong>The Geography of Jobs and Couple Migration</strong></h5>
+  <p>[Draft available upon request]</p>
 
   <p class="abstract">
     This paper studies how joint geographic constraints induced by partners' occupations influence couples' migration decisions. Using novel measures of geographic concentration and overlap of occupations, I find that highly concentrated occupations significantly limit couples' ability to relocate, although this is mitigated by the geographic overlap of partners' occupations. Additionally, I explore gender differences in occupational choices, showing that women, particularly college educated women, have increasingly selected into more geographically concentrated occupations. A shift-share decomposition reveals that the sharp decline in couple migration over the last few decades is primarily due to changes in migration patterns within different couple types rather than shifts in their composition.
   </p>
 
   <p class="presentation-info">
-  Presented at: Economics of Migration Junior Seminar 2024
+  Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium (scheduled)
   </p> 
 </div>
 </div>
+
+<br>
+
+<!-------------------
+WORK IN PROGRESS 
+--------------------->
+<h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
 
 <div class="container">
 <div class="jumbotron no-image">
