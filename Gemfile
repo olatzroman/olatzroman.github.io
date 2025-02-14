@@ -19,7 +19,6 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'uri', '1.0.2' # Ensure correct uri version
 end
 
 group :other_plugins do
