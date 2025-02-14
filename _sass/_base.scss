@@ -3,6 +3,13 @@
  ******************************************************************************/
 
 // Typography
+@font-face {
+  font-family: 'Lato';
+  src: url('fonts/Lato-Regular.woff2') format('woff2'),
+       url('fonts/Lato-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 h1, h2, h3, h4, h5, h6, strong {
   color: var(--global-theme-color);
@@ -16,7 +23,7 @@ em, div, li, span {
 }
 
 p {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight:400;
 }
 
