@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'bundler', '>= 2.2.22' # Ensure correct bundler version
-
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -16,9 +14,10 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer', '0.15.0'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'uri', '1.0.2'
 end
 
 group :other_plugins do
