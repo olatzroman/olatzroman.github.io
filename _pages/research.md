@@ -52,34 +52,26 @@ nav_order: 1
     }
   }
 
-  /* .btn-ssrn {
+  .btn-ssrn {
     display: inline-block;
-    padding: 5px 5px; 
-    background-color: #e5e5e5; 
-    color: #1C1C1D; 
+    padding: 5px 5px; /* Adjust padding as needed */
+    background-color: #e5e5e5; /* Same as background color */
+    color: #1C1C1D; /* Button text color */
     text-decoration: none;
-    border: 0px solid #8e7bd0; 
-    border-radius: 10px; 
+    border: 0px solid #8e7bd0; /* Button border color */
+    border-radius: 10px; /* Make borders round */
     font-size: 11px;
-    margin-left: 10px; 
+    margin-left: 10px; /* Adjust margin as needed */
   }
 
   .btn-ssrn:hover {
-    background-color: #e2b797; 
+    background-color: #e2b797; /* Hover background color */
     color: #1C1C1D;
-  } */
-
-  .links {
-    font-size: 14px;
-  }
-  .links a {
-    color: #525333;
   }
 
   .paper-title {
     display: inline-block;
     font-weight: bold;
-    font-size: 16px;
   }
 
   .paper-title a {
@@ -112,12 +104,12 @@ JOB MARKET PAPER
 <div class="jumbotron">
   <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
-  <p class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></p> 
-  <p>(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</p>
-
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="links">SSRN</a>
-  <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="links">Blog</a> 
+  <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
+  <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
+
+  <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
   <p class="abstract">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
@@ -136,8 +128,9 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;">Working Papers</h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <p class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></p>  
-  <p>(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</p>
+  <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h6>  
+
+  <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
   <p class="abstract">
     This paper introduces and validates a novel measure of relationship quality (RQ), the non-material gains from being in a relationship. We use survey data from the United Kingdom to construct and validate RQ, by demonstrating its predictive power for marital transitions and its comparability across individuals. We examine the evolution of RQ over time using panel data, testing common assumptions in the theoretical family economics literature. Our analysis reveals significant associations between RQ and individual and couple characteristics. The findings on the assortative matching on education underscore the importance of shared characteristics in enhancing RQ.
@@ -147,7 +140,7 @@ WORKING PAPERS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <p class="paper-title">The Geography of Jobs and Couple Migration</p>
+  <h6><strong>The Geography of Jobs and Couple Migration</strong></h6>
   <p>[Draft available upon request]</p>
 
   <p class="abstract">
@@ -169,8 +162,9 @@ WORK IN PROGRESS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <p class="paper-title">Until the City Do Us Part</p>
-  <p>(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</p>
+  <h6 class="paper-title">Until the City Do Us Part</h6>
+
+  <p>with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
   <p class="abstract">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
