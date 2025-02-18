@@ -3,20 +3,31 @@
  ******************************************************************************/
 
 // Typography
+@font-face {
+  font-family: 'Lato';
+  src: url('fonts/Lato-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// body {
+//   font-family: 'Lato', sans-serif;
+// }
+
 
 h1, h2, h3, h4, h5, h6, strong {
   color: var(--global-theme-color);
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 em, div, li, span {
   color: var(--global-text-color);
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight:400;
 }
 
 p {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight:400;
 }
 
