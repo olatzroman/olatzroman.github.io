@@ -93,12 +93,12 @@ nav_order: 1
 <!-------------------
 JOB MARKET PAPER 
 --------------------->
-<h4 style="margin-bottom: 20px;"><strong>Job Market Paper</strong></h4>
+<h4 style="margin-bottom: 20px;">Job Market Paper</h4>
 <div class="container">
 <div class="jumbotron">
   <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
-  <h5 class="paper-title" style="text-decoration: underline;"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf"><strong>Children, Household Specialization and Relationship Quality</strong></a></h5> 
+  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h5> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
@@ -119,10 +119,10 @@ JOB MARKET PAPER
 <!-------------------
 WORKING PAPERS 
 --------------------->
-<h4 style="margin-bottom: 20px;"><strong>Working Papers</strong></h4>
+<h4 style="margin-bottom: 20px;">Working Papers</h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <h5 class="paper-title" style="text-decoration: underline;"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf"><strong>Measuring Relationship Quality</strong></a></h5>  
+  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h5>  
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
@@ -152,11 +152,11 @@ WORKING PAPERS
 <!-------------------
 WORK IN PROGRESS 
 --------------------->
-<h4 style="margin-bottom: 20px;"><strong>Work in Progress</strong></h4>
+<h4 style="margin-bottom: 20px;">Work in Progress</h4>
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h5 class="paper-title"><strong>Until the City Do Us Part</strong></h5>
+  <h5 class="paper-title">Until the City Do Us Part</h5>
 
   <p>with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
