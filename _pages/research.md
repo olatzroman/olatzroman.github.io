@@ -105,12 +105,8 @@ JOB MARKET PAPER
   <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
-  <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
-  <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
-
-  <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
-
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+  
   <p class="abstract">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
   </p>
@@ -118,6 +114,12 @@ JOB MARKET PAPER
   <p class="presentation-info">
   Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society
   </p>
+
+  <p style="font-size: 14px;">
+  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">Blog</a>
+  </p>
+  <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
+</p>
   </div>
 </div>
 </div>
@@ -129,8 +131,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h6>  
-
-  <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
 
   <p class="abstract">
     This paper introduces and validates a novel measure of relationship quality (RQ), the non-material gains from being in a relationship. We use survey data from the United Kingdom to construct and validate RQ, by demonstrating its predictive power for marital transitions and its comparability across individuals. We examine the evolution of RQ over time using panel data, testing common assumptions in the theoretical family economics literature. Our analysis reveals significant associations between RQ and individual and couple characteristics. The findings on the assortative matching on education underscore the importance of shared characteristics in enhancing RQ.
@@ -163,8 +164,7 @@ WORK IN PROGRESS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title">Until the City Do Us Part</h6>
-
-  <p>with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
 
   <p class="abstract">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
