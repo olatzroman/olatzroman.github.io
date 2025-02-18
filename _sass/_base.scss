@@ -73,12 +73,12 @@ table {
 }
 
 a, table.table a {
-  color: $orange-color;
-  color: $orange-color;
+  color: $blue-color;
+  color: $blue-color;
   font-weight: normal;
   &:hover {
-    color: $orange-color;
-    color: $orange-color;
+    color: $blue-color;
+    color: $blue-color;
   }
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;

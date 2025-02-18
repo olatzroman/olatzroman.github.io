@@ -65,7 +65,7 @@ nav_order: 1
   }
 
   .btn-ssrn:hover {
-    background-color: #e2b797; /* Hover background color */
+    background-color: #CF8852; /* Hover background color */
     color: #1C1C1D;
   }
 
@@ -75,7 +75,7 @@ nav_order: 1
   }
 
   .paper-title a {
-    color: #a56c41; /* Match the default link color */
+    color: #4682b4; /* Match the default link color */
     text-decoration: none;
     font-weight: bold;
   }
