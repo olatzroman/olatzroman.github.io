@@ -5,9 +5,14 @@
 // Typography
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/Lato-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('/assets/fonts/Lato-Bold.ttf') format('truetype');
+  font-weight: bold;
 }
 
 // body {
@@ -15,9 +20,10 @@
 // }
 
 
-h1, h2, h3, h4, h5, h6, strong {
+h1, h2, h3, h4, h5, h6, strong, b {
   color: var(--global-theme-color);
   font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
 }
 
 em, div, li, span {
