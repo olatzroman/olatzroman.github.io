@@ -65,12 +65,18 @@ nav_order: 1
   }
 
   .btn-ssrn:hover {
-    background-color: #dc8a69; /* Hover background color */
+    background-color: #e2b797; /* Hover background color */
     color: #1C1C1D;
   }
 
   .paper-title {
     display: inline-block;
+    font-weight: bold;
+  }
+
+  .paper-title a {
+    color: #a56c41; /* Match the default link color */
+    text-decoration: none;
     font-weight: bold;
   }
 
@@ -98,7 +104,7 @@ JOB MARKET PAPER
 <div class="jumbotron">
   <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
   <div class="text-container">
-  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h5> 
+  <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" class="btn-ssrn">SSRN</a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" class="btn-ssrn">Blog</a> 
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
@@ -122,7 +128,7 @@ WORKING PAPERS
 <h4 style="margin-bottom: 20px;">Working Papers</h4>
 <div class="container">
 <div class="jumbotron no-image">
-  <h5 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h5>  
+  <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h6>  
 
   <p>with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
@@ -134,7 +140,7 @@ WORKING PAPERS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h5><strong>The Geography of Jobs and Couple Migration</strong></h5>
+  <h6><strong>The Geography of Jobs and Couple Migration</strong></h6>
   <p>[Draft available upon request]</p>
 
   <p class="abstract">
@@ -156,7 +162,7 @@ WORK IN PROGRESS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h5 class="paper-title">Until the City Do Us Part</h5>
+  <h6 class="paper-title">Until the City Do Us Part</h6>
 
   <p>with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a></p>
 
