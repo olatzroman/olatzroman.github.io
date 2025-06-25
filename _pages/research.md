@@ -99,34 +99,33 @@ nav_order: 1
 <!-------------------
 JOB MARKET PAPER 
 --------------------->
-<h4 style="margin-bottom: 20px;">Job Market Paper</h4>
+
+
+<!-------------------
+WORKING PAPERS 
+--------------------->
+<h4 style="margin-bottom: 20px;">Working Papers</h4>
 <div class="container">
-<div class="jumbotron">
-  <img src="/assets/img/PlotJMP.png"> <!-- Add your image source here -->
-  <div class="text-container">
+<div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/OlatzRoman_JMP.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
   <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+  <span style="font-size = 15px;"><b><i>[Job Market Paper]</b></i></span>
   
   <p class="abstract">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
   </p>
 
   <p class="presentation-info">
-  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society
+  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society, ifo Institute, Masaryk University
   </p>
 
   <p style="font-size: 13px;">
-  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">Blog</a>
+  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN working paper</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">La Fonte blog</a>
   </p>
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
-  </div>
 </div>
 </div>
 
-<!-------------------
-WORKING PAPERS 
---------------------->
-<h4 style="margin-bottom: 20px;">Working Papers</h4>
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h6>  
