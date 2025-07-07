@@ -119,7 +119,7 @@ WORKING PAPERS
   </p>
 
   <p style="font-size: 13px;">
-  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN working paper</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">La Fonte blog</a>
+  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN working paper</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">La Fonte blog</a> - <a href="https://olatzroman.github.io/assets/pdf/FertilityRQ_Presentation.pdf" style="color: #ffffff">Slides</a>
   </p>
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
 </div>
