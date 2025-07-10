@@ -115,7 +115,7 @@ WORKING PAPERS
   </p>
 
   <p class="presentation-info">
-  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society, ifo Institute, Masaryk University
+  Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society, ifo Institute, Masaryk University, XXVIII Vigo Workshop on Dynamic Macroeconomics
   </p>
 
   <p style="font-size: 13px;">
