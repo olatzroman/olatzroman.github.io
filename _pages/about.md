@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: PhD Candidate in Economics at the <a target="_blank" href="https://www.eui.eu/en/home">European University Institute</a>
+subtitle: Postdoctoral Researcher in Economics at the <a target="_blank" href="https://www.uni-mannheim.de/">University of Mannheim</a>
 
 profile:
   align: left
@@ -11,8 +11,8 @@ profile:
   address: >
     <p style="text-align:left"><small>
     Department of Economics <br>
-    Via delle Fontanelle, 18 <br>
-    50014 Fiesole (FI), Italy
+    L 7, 3-5 <br>
+    68161 Mannheim, Germany
     </small></p>
 
 news: false  # includes a list of news items
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Welcome to my website!**
 
-I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence. My supervisors are [Thomas F. Crossley](https://sites.google.com/site/tfcrossley/) and [Alexander Monge-Naranjo](https://alexandermonge.com/).  I visited UC Berkeley during spring 2022.
+I am a Postdoctoral Researcher in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). I received a Ph.D. in Economics from the European University Institute in 2025.
 
 My research interests are mainly in family, labor and gender economics. I study how gendered behaviors and geographical factors influence labor market and family decisions of individuals and couples. 
 

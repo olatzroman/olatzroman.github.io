@@ -119,7 +119,7 @@ WORKING PAPERS
   </p>
 
   <p style="font-size: 13px;">
-  Links: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #CF8852">SSRN working paper</a> - <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #CF8852">La Fonte blog</a>
+  [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #B45346">SSRN Working Paper</a>] [<a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #B45346">La Fonte blog</a>]
   </p>
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
 </div>
@@ -160,7 +160,7 @@ WORK IN PROGRESS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title">Until the City Do Us Part</h6>
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> and <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
 
   <p class="abstract">
     In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
