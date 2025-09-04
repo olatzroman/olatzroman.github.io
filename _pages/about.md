@@ -28,4 +28,4 @@ My research interests are mainly in family, labor and gender economics. I study 
 
 You can find my [CV](https://olatzroman.github.io/assets/pdf/CVOlatzRoman.pdf) here and learn more about my [research](https://olatzroman.github.io/research/) here.
 
-You can email me at [olatz.roman@eui.eu](mailto:olatz.roman@eui.eu).
+You can email me at [olatz.roman@uni-mannheim.de](mailto:olatz.roman@uni-mannheim.de).

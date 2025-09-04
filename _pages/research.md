@@ -145,7 +145,7 @@ WORKING PAPERS
   </p>
 
   <p class="presentation-info">
-  Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium, Mend the Gap in Economic Opportunities in Europe and Central Asia workshop (poster)
+  Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium, Mend the Gap in Economic Opportunities in Europe and Central Asia workshop (poster), 40th meeting of the European Economic Association
   </p> 
 </div>
 </div>
