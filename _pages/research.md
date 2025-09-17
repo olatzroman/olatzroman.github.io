@@ -147,6 +147,11 @@ WORKING PAPERS
   <p class="presentation-info">
   Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium, Mend the Gap in Economic Opportunities in Europe and Central Asia workshop (poster), 40th meeting of the European Economic Association
   </p> 
+
+  <p style="font-size: 13px;">
+  [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283213" target="_blank" style="color: #B45346">SSRN Working Paper</a>]
+  </p>
+
 </div>
 </div>
 
