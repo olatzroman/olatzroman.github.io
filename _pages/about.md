@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Welcome to my website!**
 
-I am a Postdoctoral Researcher in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) and a member of the [Collaborative Research Center Transregio 224](https://www.crctr224.de/) "Economic Perspectives on Societal Challenges: Equality of Opportunity, Market Regulation, and Financial Stability". I received my Ph.D. in Economics from the European University Institute in 2025.
+I am a Postdoctoral Researcher in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). I am also a member of the [Collaborative Research Center Transregio 224](https://www.crctr224.de/) "Economic Perspectives on Societal Challenges: Equality of Opportunity, Market Regulation, and Financial Stability" and a postdoctoral researcher at the [Macro Inequality Lab](https://macro-inequality-lab.net/). I received my Ph.D. in Economics from the European University Institute in 2025.
 
 My research interests are mainly in family, labor and gender economics. I study how gendered behaviors and geographical factors influence labor market and family decisions of individuals and couples. 
 
