@@ -102,7 +102,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/FertilityRQ.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <b>[Job Market Paper]</b></span>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <i>[October 2025]</i></span>
   
   <p class="abstract">
     We investigate how having children impacts the quality of couples' relationships, a proxy of the non-material gains from being in a relationship. Using a novel measure of relationship quality (RQ), we perform a dynamic difference-in-differences estimation around the birth of the first child. We find a sharp and lasting decrease in RQ immediately after birth. We attribute this effect to changes in household specialization. Traditional gender-based specialization prevails after birth, regardless of the baseline distribution of tasks within the couple. Leveraging heterogeneous changes in household specialization after birth, we find that couples undergoing larger rearrangements also suffer larger RQ drops.
@@ -126,10 +126,10 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/MeasuringRQ.pdf">Measuring Relationship Quality</a></h6>  
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>)</span>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <i>[December 2025]</i></span>
 
   <p class="abstract">
-    This paper introduces and validates a novel measure of relationship quality (RQ), the non-material gains from being in a relationship. We use survey data from the United Kingdom to construct and validate RQ, by demonstrating its predictive power for marital transitions and its comparability across individuals. We examine the evolution of RQ over time using panel data, testing common assumptions in the theoretical family economics literature. Our analysis reveals significant associations between RQ and individual and couple characteristics. The findings on the assortative matching on education underscore the importance of shared characteristics in enhancing RQ.
+    This paper introduces a novel measure of relationship quality (RQ), the non-material gains from being in a relationship, and uses it to evaluate testable implications of different assumptions about match quality in models of couple formation and dissolution. We use survey data from the United Kingdom to construct and validate RQ, by demonstrating its predictive power for marital transitions and its comparability across partners. Exploiting the panel structure of the data, we test the empirical predictions of stochastic, learning and mixed models of match quality. We find that separation hazards decline with relationship tenure, the effect of negative RQ shocks diminishes over time, and shocks have a larger impact when occurring later in the relationship. These patterns support the stochastic framework and are inconsistent with learning models.
   </p>
 </div>
 </div>
