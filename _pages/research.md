@@ -164,11 +164,11 @@ WORK IN PROGRESS
 
 <div class="container">
 <div class="jumbotron no-image">
-  <h6 class="paper-title">Until the City Do Us Part: Returns to Size in Local Marriage Markets </h6>
+  <h6 class="paper-title">Returns to Size in Local Marriage Markets </h6>
   <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
 
   <p class="abstract">
-    In this project, we exploit geographical differences in marriage markets to unveil the main determinants of relationship quality as well as couple formation and dissolution. Using data for the United Kingdom, we show that big cities are characterized by a larger proportion of singles and by a lower stability of newly formed couples as compared to small cities. However, we also find that the risk of couple dissolution decreases faster in bigger cities and that the relationship quality of couples deteriorates at a slower pace. We then build a dynamic quantitative model of couple formation and dissolution that allows us to account for the endogeneity of location decisions and to quantify the importance of each mechanism in resulting relationship quality.
+    This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show that, after accounting for factors affecting marriage markets through channels other than the meeting technology, a measure of match quality is sufficient to identify returns to size. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find no evidence of decreasing returns to size. Match quality is weakly increasing in market size, while formation and dissolution rates rise with city size, consistent with increasing returns to scale.
   </p>
 </div>
 </div>
