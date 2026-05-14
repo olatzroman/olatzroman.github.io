@@ -129,7 +129,8 @@ WORKING PAPERS
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/GeoJobs.pdf">The Geography of Jobs and Couple Migration</a></h6>
 
   <p class="abstract">
-    This paper studies how joint geographic constraints induced by partners' occupations influence couples' migration decisions. Using novel measures of geographic concentration and overlap of occupations, I find that highly concentrated occupations significantly limit couples' ability to relocate, although this is mitigated by the geographic overlap of partners' occupations. Additionally, I explore gender differences in occupational choices, showing that women, particularly college educated women, have increasingly selected into more geographically concentrated occupations. A shift-share decomposition reveals that the sharp decline in couple migration over the last few decades is primarily due to changes in migration patterns within different couple types rather than shifts in their composition.
+      This paper studies how joint geographic constraints induced by partners' occupations shape couples' migration decisions. Using novel measures of geographic concentration and occupational overlap, I find that geographically restricted occupations both significantly limit couples' ability to relocate and, conditional on moving, are associated with worse post-migration outcomes. This negative association with migration and misallocation is mitigated when partners' occupations exhibit a high degree of geographic overlap. I exploit the introduction of occupational licensing policies as exogenous shocks to job geography, showing that licensing-induced increases in concentration substantially reduce cross-state mobility, particularly for married individuals, highlighting the role of joint location constraints in shaping couples’ migration decisions.
+
   </p>
 
   <!-- <p class="presentation-info">
