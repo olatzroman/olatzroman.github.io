@@ -115,11 +115,24 @@ WORKING PAPERS
   <a href="https://www.crctr224.de/research/discussion-papers/archive/dp719" target="_blank"><button class="button">EPoS Discussion Paper</button></a>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank"><button class="button">SSRN Working Paper</button></a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank"><button class="button">Blog <i class="fa-solid fa-arrow-up-right-from-square"></i></button></a>
+  <a href="https://www.crctr224.de/newsroom/interviews/interview-with-olatz-roman" target="_blank"><button class="button">CRC interview <i class="fa-solid fa-arrow-up-right-from-square"></i></button></a>
 
   <!-- <p style="font-size: 13px;">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank" style="color: #B45346">SSRN Working Paper</a>] [<a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank" style="color: #B45346">La Fonte blog</a>]
   </p> -->
   <!-- <a href="https://olatzroman.github.io/assets/pdf/presentation.pdf" style="color: #ffffff">Slides</a> -->
+</div>
+</div>
+
+<div class="container">
+<div class="jumbotron no-image">
+  <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/CityRQ.pdf">Returns to Size in Local Marriage Markets</a></h6> 
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
+
+  <p class="abstract">
+    This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show how a measure of match quality can be used to identify returns to size in some circumstances. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find evidence of constant returns to size. Not only formation and dissolution rates do not change with city size, but also match quality displays a flat profile.
+  </p>
+
 </div>
 </div>
 
@@ -153,15 +166,6 @@ WORK IN PROGRESS
 --------------------->
 <h4 style="margin-bottom: 20px;">Work in Progress</h4>
 
-<div class="container">
-<div class="jumbotron no-image">
-  <h6 class="paper-title">Returns to Size in Local Marriage Markets </h6>
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>)</span>
 
-  <p class="abstract">
-    This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show how a measure of match quality can be used to identify returns to size in some circumstances. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find evidence of constant returns to size. Not only formation and dissolution rates do not change with city size, but also match quality displays a flat profile.
-  </p>
-</div>
-</div>
 
 
