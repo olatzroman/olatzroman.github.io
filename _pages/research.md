@@ -133,9 +133,10 @@ WORKING PAPERS
     This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show how a measure of match quality can be used to identify returns to size in some circumstances. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find evidence of constant returns to size. Not only formation and dissolution rates do not change with city size, but also match quality displays a flat profile.
   </p>
 
-</div>
-</div>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7618739" target="_blank"><button class="button">SSRN Working Paper</button></a>
 
+</div>
+</div>
 
 <div class="container">
 <div class="jumbotron no-image">
