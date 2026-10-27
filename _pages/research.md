@@ -102,7 +102,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/Children_RQ.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <i>[June 2026]</i></span>
+  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <i>[October 2026]</i></span>
   
   <p class="abstract">
     We study how having children affects the quality of couples' relationships. Relationship quality captures the non-material gains from being in a relationship, which are central to models of family formation and dissolution. Using rich longitudinal data from the United Kingdom, we construct and validate a novel measure of relationship quality (RQ). Exploiting variation in the timing of first births in a dynamic difference-in-differences framework, we find a sharp and persistent RQ decline of approximately half a standard deviation, sustained for at least seven years. This effect is symmetric across mothers and fathers, in contrast to the large gender asymmetries documented in the parenthood literature. We establish gender-based household specialization as the key mechanism. 
