@@ -142,8 +142,8 @@ WORKING PAPERS
   Presented at (* by coauthor): Universitat Pompeu i Fabra*, 18th Doctorissimes Conference, Universitat de Barcelona*, Universidad Carlos III de Madrid*, Universidad de Salamanca*, 2023 BSE Jamboree*, 2323 EDP Jamboree*, 2023 Understanding Society Scientific Conference, 2023 EEA-ESEM congress*, 2023 EALE conference, 2023 Inequalities in Education, Labor Markets and Families EUI Conference, 48th SAEe symposium*, IZA Institute for Labor Economics, SOLE 2024, University of the Basque Country, XVI AEET Labor Economics Conference*, 17th UniTO-Collegio Carlo Alberto Ph.D. Workshop, 2024 European Winter Meeting of the Econometric Society, ifo Institute, Masaryk University, XXVIII Vigo Workshop on Dynamic Macroeconomics
   </p> -->
 
-  <a href="https://www.crctr224.de/research/discussion-papers/archive/dp719" target="_blank"><button class="button">EPoS Discussion Paper</button></a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank"><button class="button">SSRN Working Paper</button></a>
+  <a href="https://www.crctr224.de/research/discussion-papers/archive/dp719" target="_blank"><button class="button">EPoS Discussion Paper No. 719</button></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669645" target="_blank"><button class="button">SSRN Working Paper No. 4669645</button></a>
   <a href="https://lafonte.eui.eu/2024/07/04/having-children-a-guide-for-couple-survival/" target="_blank"><button class="button">Blog <i class="fa-solid fa-arrow-up-right-from-square"></i></button></a>
   <a href="https://www.crctr224.de/newsroom/interviews/interview-with-olatz-roman" target="_blank"><button class="button">CRC interview <i class="fa-solid fa-arrow-up-right-from-square"></i></button></a>
 
@@ -163,7 +163,7 @@ WORKING PAPERS
     This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show how a measure of match quality can be used to identify returns to size in some circumstances. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find evidence of constant returns to size. Not only formation and dissolution rates do not change with city size, but also match quality displays a flat profile.
   </p>
 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7618739" target="_blank"><button class="button">SSRN Working Paper</button></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7618739" target="_blank"><button class="button">SSRN Working Paper No. 7618739</button></a>
 
 </div>
 </div>
@@ -181,7 +181,7 @@ WORKING PAPERS
   Presented at: Economics of Migration Junior Seminar 2024, 48th SAEe symposium, Mend the Gap in Economic Opportunities in Europe and Central Asia workshop (poster), 40th meeting of the European Economic Association
   </p> -->
 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283213" target="_blank"><button class="button">SSRN Working Paper</button></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283213" target="_blank"><button class="button">SSRN Working Paper No. 5283213</button></a>
 
   <!-- <p style="font-size: 13px;">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5283213" target="_blank" style="color: #B45346">SSRN Working Paper</a>]
