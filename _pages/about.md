@@ -26,6 +26,8 @@ I am a Postdoctoral Researcher in Economics at the [University of Mannheim](http
 
 My research interests are mainly in family, labor and gender economics. I study how gendered behaviors and geographical factors influence labor market and family decisions of individuals and couples. 
 
-You can find my [CV](https://olatzroman.github.io/assets/pdf/CVOlatzRoman.pdf) here and learn more about my [research](https://olatzroman.github.io/research/) here.
+**Email:** [olatz.roman@uni-mannheim.de](mailto:olatz.roman@uni-mannheim.de)
+{: .contact-line}
 
-You can email me at [olatz.roman@uni-mannheim.de](mailto:olatz.roman@uni-mannheim.de).
+You can find my [CV](https://olatzroman.github.io/assets/pdf/CVOlatzRoman.pdf) here and learn more about my [research](https://olatzroman.github.io/research/) here.
+{: .contact-line}

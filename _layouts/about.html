@@ -24,9 +24,9 @@ layout: default
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
               {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+                {%- assign profile_image_class = "img-fluid rounded-circle" -%}
               {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {%- assign profile_image_class = "img-fluid rounded" -%}
               {% endif %}
 
               {% include figure.html 
@@ -39,10 +39,22 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+
+            <!-- Social icons, under the picture -->
+            {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+            </div>
+            {%- endif %}
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix about-text">
             {{ content }}
           </div>
 
@@ -58,19 +70,6 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-              
-            </div>
-          {%- endif %}
         </article>
 
 </div>

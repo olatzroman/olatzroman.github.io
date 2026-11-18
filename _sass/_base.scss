@@ -5,57 +5,30 @@ html {
   font-size: 15px; /* Default is usually 16px */
 }
 
-// Typography
-@font-face {
-  font-family: 'Lato';
-  src: url('/assets/fonts/Lato-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('/assets/fonts/Lato-Bold.ttf') format('truetype');
-  font-weight: bold;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url('/assets/fonts/Lato-Light.ttf') format('truetype');
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'Quattrocento';
-  src: url('/assets/fonts/Quattrocento-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Quattrocento';
-  src: url('/assets/fonts/Quattrocento-Bold.ttf') format('truetype');
-  font-weight: bold;
+// Typography: Inter everywhere (loaded from Google Fonts in _includes/head.html)
+
+body {
+  font-family: $font-stack;
 }
 
+button {
+  font-family: inherit;
+}
 
-h1, h2, h3, h5, h6, strong, b {
+h1, h2, h3, h4, h5, h6, strong, b {
   color: var(--global-theme-color);
-  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: $font-stack;
   font-weight: bold;
 }
-
-h4 {
-  color: var(--global-theme-color);
-  font-family:'Quattrocento', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: bold;
-}
-
 
 em, div, li, span {
   color: var(--global-text-color);
-  font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: $font-stack;
   font-weight: normal;
 }
 
 p {
-  font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: $font-stack;
   font-weight: normal;
 }
 
@@ -73,12 +46,10 @@ table {
 }
 
 a, table.table a {
-  color: $blue-color;
-  color: $blue-color;
+  color: $link-color;
   font-weight: normal;
   &:hover {
-    color: $blue-color;
-    color: $blue-color;
+    color: $link-hover-color;
   }
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
@@ -168,10 +139,50 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 25%;
     .address {
       p { display: block; }
     }
+  }
+  // wider gap between the photo column and the text column
+  .profile.float-left { margin-right: 2.5rem; }
+  .profile.float-right { margin-left: 2.5rem; }
+}
+
+// About page text column (_layouts/about.html)
+
+.about-text {
+  overflow: hidden; // keeps the text in its own column beside the photo
+
+  p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: $text-color;
+    font-weight: 350;
+    margin-bottom: 1.2rem;
+    a { font-weight: inherit; }
+    strong {
+      color: $ink-color;
+      font-weight: 500;
+    }
+  }
+
+  // Small contact lines at the end of the bio (class set in _pages/about.md)
+  p.contact-line {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: $contact-color;
+    margin-bottom: 0.3rem;
+    strong { color: $text-color; }
+  }
+  p:not(.contact-line) + p.contact-line {
+    margin-top: 1.6rem;
+  }
+  // CV / research links: warm orange
+  p.contact-line:last-child a {
+    color: $accent-orange;
+    font-weight: 500;
+    &:hover { color: $accent-orange-hover; }
   }
 }
 
@@ -313,20 +324,23 @@ blockquote {
   }
 }
 
-// Social (bottom)
+// Social icons (under the photo on the about page)
 
-.social {
-  text-align: center;
+.profile .social {
+  text-align: left;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
   .contact-icons {
-    font-size: 30px;
+    font-size: 22px;
     a {
+      margin-right: 0.6rem;
       i::before {
-        color: var(--global-text-color-light);
-        transition-property: all 0.2s ease-in-out;
+        color: $icon-color;
+        transition: color 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-hover-color)
+          color: $link-color;
         }
       }
     }

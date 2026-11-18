@@ -52,31 +52,61 @@ nav_order: 1
     }
   }
 
+  /* Buttons: soft tinted pills that fill on hover (colors match _sass/_variables.scss links) */
   .button {
-    border: 1px solid #CF8852;
-    color: #CF8852;
-    padding: 5px 5px;
+    border: 0;
+    border-radius: 4px;
+    background: #e9f0f8;
+    color: #1e3a5f;
+    padding: 0.2rem 0.55rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 12px;
-    margin: 4px 2px;
-
+    font-size: 0.82rem;
+    font-weight: 500;
+    margin: 0.4rem 0.2rem 0 0;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
   }
   .button:hover {
-    background-color: #CF8852; /* Hover background color */
-    color: white;
+    background: #265284;
+    color: #fff;
+  }
+  .button i {
+    color: inherit;
+    font-size: 0.7rem;
+    margin-left: 0.15rem;
   }
 
-  .paper-title {
-    display: inline-block;
-    font-weight: bold;
+  /* Paper title: semibold, own line; dark if unlinked, link blue if linked */
+  .jumbotron .paper-title {
+    display: block;
+    font-size: 1.05rem;
+    line-height: 1.35;
+    margin-bottom: 0.25rem;
+    color: #1a1a2e;
+    font-weight: 600;
   }
-
-  .paper-title a {
-    color: #4682b4; /* Match the default link color */
+  .jumbotron .paper-title a {
+    color: #265284;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 600;
+  }
+  .jumbotron .paper-title a:hover {
+    color: #1e3a5f;
+    text-decoration: underline;
+  }
+
+  /* Co-author line: muted, own line; date in light grey */
+  .jumbotron > span {
+    display: block;
+    font-size: 0.97rem;
+    color: #5a6370;
+    margin-bottom: 0.6rem;
+  }
+  .jumbotron > span i {
+    color: #8a929d;
+    font-style: normal;
   }
 
   .abstract {
@@ -102,7 +132,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/Children_RQ.pdf">Children, Household Specialization and Relationship Quality</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a>) <i>[October 2026]</i></span>
+  <span style="font-size = 15px;">with <a target="_blank" href="https://sites.google.com/view/belrodoro/about-me">Belén Rodríguez Moro</a> · Submitted <i>[October 2026]</i></span>
   
   <p class="abstract">
     We study how having children affects the quality of couples' relationships. Relationship quality captures the non-material gains from being in a relationship, which are central to models of family formation and dissolution. Using rich longitudinal data from the United Kingdom, we construct and validate a novel measure of relationship quality (RQ). Exploiting variation in the timing of first births in a dynamic difference-in-differences framework, we find a sharp and persistent RQ decline of approximately half a standard deviation, sustained for at least seven years. This effect is symmetric across mothers and fathers, in contrast to the large gender asymmetries documented in the parenthood literature. We establish gender-based household specialization as the key mechanism. 
@@ -127,7 +157,7 @@ WORKING PAPERS
 <div class="container">
 <div class="jumbotron no-image">
   <h6 class="paper-title"><a target="_blank" href="https://olatzroman.github.io/assets/pdf/CityRQ.pdf">Returns to Size in Local Marriage Markets</a></h6> 
-  <span style="font-size = 15px;">(with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a>) <i>[October 2026]</i></span>
+  <span style="font-size = 15px;">with <a target="_blank" href="https://sites.google.com/view/ana-moreno-maldonado/main?authuser=0">Ana Moreno-Maldonado</a> <i>[October 2026]</i></span>
 
   <p class="abstract">
     This paper studies whether there are returns to size in local marriage markets. Using a stylized search model of couple formation, we show that rates of couple formation and dissolution are insufficient to identify returns to market size when meeting technologies differ across locations. This is because higher meeting rates increase not only the frequency of encounters but also the option value of remaining single, raising the minimum match quality individuals are willing to accept to enter a relationship. We show how a measure of match quality can be used to identify returns to size in some circumstances. Guided by the model, we empirically study marriage markets using a novel measure of relationship quality. Adapting methods from the labour economics literature to account for endogenous sorting into cities, we find evidence of constant returns to size. Not only formation and dissolution rates do not change with city size, but also match quality displays a flat profile.
